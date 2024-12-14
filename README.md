@@ -1,7 +1,7 @@
 # Rock_Paper_Scissor
 A Simple Python project
 Overview
-This is a simple Python implementation of the classic Rock-Paper-Scissors game. The user plays against the computer by selecting one of the three options: Rock, Paper, or Scissors. The game determines the winner based on the rules of Rock-Paper-Scissors and displays the result.
+This is a simple Python implementation of the classic Rock-Paper-Scissors game. The user plays against the computer by selecting one of the three options: Rock, Paper, or Scissors. The game determines the winner based on the rules of Rock-Paper-Scissor and displays the result.
 
 Features
 Uses Enum to represent the game choices (Rock, Paper, Scissors).
