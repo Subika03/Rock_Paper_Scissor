@@ -5,11 +5,11 @@ from enum import Enum
 class RPS(Enum):
     ROCK=1
     PAPER=2
-    SCISSCOR=3
+    SCISSOR=3
 
 
 print("")
-playerchoice=input("Enter...\n1 for Rock,\n2 for Paper,\n3 for Scissors:\n")
+playerchoice=input("Enter...\n1 for Rock,\n2 for Paper,\n3 for Scissor:\n")
 
 player=int(playerchoice)
 
